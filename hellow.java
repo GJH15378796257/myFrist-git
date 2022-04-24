@@ -5,6 +5,6 @@ public static void main(String[] args){
 system.out.print(三次修改123456
 ~~~~~四次测试
 		)
-
+sout(987654)
 sout()123
 sout--1234
